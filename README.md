@@ -1,2 +1,3 @@
 # rag-chatbot
-chatbot with different tools
+
+chatbot with different tools like rag and mcp, etc
