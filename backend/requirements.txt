@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+psycopg2-binary
+sqlalchemy
+qdrant-client
+langchain
+langchain-community
+langchain-core
+langchain-openai
+aiofiles
+sse-starlette
